@@ -76,3 +76,4 @@ def is_pangram(sen):
 
 print(is_pangram("thequickbrownfoxjumpsoverthelazydog"))
 
+
